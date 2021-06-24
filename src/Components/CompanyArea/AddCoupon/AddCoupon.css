@@ -1,0 +1,37 @@
+.AddCoupon {
+  height: 100%;
+  margin: 3%;
+}
+
+.AddCoupon .TitleMain {
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.AddCoupon .Field1 {
+  float: left;
+  margin-top: 1%;
+  margin-left: 9%;
+}
+
+.AddCoupon .Field2 {
+  margin-left: 9%;
+  margin-top: 1%;
+  float: left;
+}
+
+.AddCoupon .FieldText {
+  width: 210px;
+  margin-right: 10px;
+}
+
+.AddCoupon .FieldText2 {
+  width: 430px;
+}
+
+.AddCoupon Button {
+  width: 430px;
+  font-size: 12pt;
+  text-transform: capitalize;
+}
+

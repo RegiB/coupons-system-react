@@ -1,0 +1,25 @@
+.UpdateCustomer {
+  height: 100%;
+  margin: 3%;
+}
+
+.UpdateCustomer .TitleMain {
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.UpdateCustomer .FieldText {
+  margin-right: 10px;
+  width: 200px;
+}
+
+.UpdateCustomer .FieldText2 {
+  width: 410px;
+  margin-right: 10px;
+}
+
+.UpdateCustomer Button {
+  margin-right: 10px;
+  text-transform: capitalize;
+  font-size: 12pt;
+}

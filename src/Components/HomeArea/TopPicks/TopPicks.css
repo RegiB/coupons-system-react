@@ -1,0 +1,20 @@
+.TopPicks {
+  height: 100%;
+  width: 100%;
+  margin-top: -120px;
+}
+
+.TopPicks .TitleTop {
+  text-align: center;
+  font-size: 20pt;
+  font-weight: bold;
+}
+
+.TopPicks .HomeCards {
+  float: center;
+  display: inline-flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 3% 0% 0% 2%;
+}

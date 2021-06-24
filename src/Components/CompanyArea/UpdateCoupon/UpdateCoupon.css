@@ -1,0 +1,37 @@
+.UpdateCoupon {
+  height: 100%;
+  margin: 3%;
+}
+
+.UpdateCoupon .TitleMain {
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.UpdateCoupon .Field1 {
+  float: left;
+  margin-top: 1%;
+  margin-left: 9%;
+}
+
+.UpdateCoupon .Field2 {
+  margin-left: 9%;
+  margin-top: 1%;
+  float: left;
+}
+
+.UpdateCoupon .FieldText {
+  width: 210px;
+  margin-right: 10px;
+}
+
+.UpdateCoupon .FieldText2 {
+  width: 430px;
+}
+
+.UpdateCoupon Button {
+  width: 430px;
+  text-transform: capitalize;
+  font-size: 12pt;
+}
+

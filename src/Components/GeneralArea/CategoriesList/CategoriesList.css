@@ -1,0 +1,39 @@
+.CategoriesList {
+  height: 100%;
+  margin: 3%;
+}
+
+.CategoriesList .TitleTop {
+  text-align: center;
+  font-size: 22pt;
+  font-weight: bold;
+}
+
+.CategoriesList .CategoryBox {
+  margin: 2%;
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.CategoriesList .CategoryBox img {
+  width: 240px;
+  height: 160px;
+  border-radius: 5px;
+}
+
+.CategoriesList button {
+  margin-top: -5%;
+  font-weight: bold;
+  text-transform: capitalize;
+  font-size: 11pt;
+}
+
+.CategoriesList > div a :hover {
+  opacity: 0.8;
+}
+
+.CategoriesList .LinkForward :hover {
+  color: blueviolet;
+}

@@ -1,0 +1,18 @@
+.UpdateCompany {
+  height: 100%;
+  margin: 3%;
+}
+
+.UpdateCompany .TitleMain {
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.UpdateCompany .FieldText {
+  width: 410px;
+}
+
+.UpdateCompany Button {
+  text-transform: capitalize;
+  font-size: 12pt;
+}

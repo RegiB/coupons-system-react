@@ -1,0 +1,29 @@
+.CustomerDetails {
+  height: 100%;
+  margin: 5%;
+}
+
+.CustomerDetails .Details {
+  padding: 30px;
+  display: inline-flex;
+  flex-direction: column;
+}
+
+.CustomerDetails .InfoBox {
+  margin: 3%;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: rgba(137, 43, 226, 0.8);
+  color: whitesmoke;
+}
+
+.CustomerDetails .Title {
+  display: inline-flex;
+  float: center;
+}
+
+.CustomerDetails .Par {
+  font-size: 15pt;
+  display: inline-flex;
+  flex-direction: row;
+}

@@ -1,0 +1,10 @@
+.CouponsPurchased {
+  height: 100%;
+  padding: 5%;
+  display: inline-flex;
+  border-radius: 10px;
+}
+
+.CouponsPurchased .Title {
+  font-size: 14pt;
+}

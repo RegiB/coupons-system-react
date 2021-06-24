@@ -1,0 +1,33 @@
+.Login {
+  height: 100%;
+  margin: 2%;
+}
+
+.Login .HeadMain {
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.Login .FieldText {
+  width: 350px;
+}
+.Login .RadioType {
+  width: 350px;
+  float: left;
+}
+
+.Login .LoginBtn {
+  width: 350px;
+  height: 50px;
+  border-radius: 50px;
+  font-size: 12pt;
+  font-weight: bold;
+  color: whitesmoke;
+  background-color: blueviolet;
+  text-transform: capitalize;
+}
+
+.Login .LoginBtn:hover {
+  color: whitesmoke;
+  background-color: rgba(137, 43, 226, 0.8);
+}

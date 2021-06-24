@@ -1,0 +1,13 @@
+.RandomImg {
+  height: 100%;
+}
+
+.RandomImg img {
+  width: 450px;
+  height: 300px;
+  border-radius: 50%;
+  position: absolute;
+  float: right;
+  bottom: -230px;
+  left: -100px;
+}

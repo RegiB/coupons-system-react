@@ -1,0 +1,28 @@
+.CompanyDetails {
+  height: 100%;
+  margin: 5%;
+}
+
+.CompanyDetails .Details {
+  padding: 30px;
+  display: inline-flex;
+  flex-direction: column;
+}
+
+.CompanyDetails .InfoBox {
+  margin: 4%;
+  border-radius: 10px;
+  background-color: rgba(137, 43, 226, 0.8);
+  color: whitesmoke;
+}
+
+.CompanyDetails .Title {
+  display: inline-flex;
+  float: center;
+}
+
+.CompanyDetails .Par {
+  font-size: 15pt;
+  display: inline-flex;
+  flex-direction: row;
+}

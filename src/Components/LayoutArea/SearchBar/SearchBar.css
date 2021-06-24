@@ -1,0 +1,49 @@
+.Search {
+  position: fixed;
+  display: inline-flex;
+  flex-direction: row;
+  margin: 2%;
+  width: 30%;
+  height: 43px;
+  right: 12%;
+  border-radius: 50px;
+  border: 2px solid blueviolet;
+  color: whitesmoke;
+  background-color: blueviolet;
+}
+
+.Search .SearchBar {
+  width: 78%;
+  margin-top: 1.5%;
+}
+
+.Search .SearchBar :hover {
+  background-color: whitesmoke;
+}
+
+.Search .SearchIcon {
+  color: whitesmoke;
+}
+
+@media screen and (max-width: 1000px) {
+  .Search {
+    left: 50%;
+  }
+  .Search .SearchBar {
+    width: 65%;
+    margin-top: 2%;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .Search {
+    width: 0.1%;
+    left: 72%;
+  }
+  .Search .SearchIcon {
+    display: none;
+  }
+  .Search .SearchBar {
+    display: none;
+  }
+}

@@ -1,0 +1,22 @@
+.Page404 {
+  height: 100%;
+  margin: 3%;
+}
+
+.Page404 h6 {
+  margin-bottom: 2%;
+  font-weight: bolder;
+}
+
+.Page404 button {
+  margin: 1%;
+  font-weight: bolder;
+  color: whitesmoke;
+  background-color: blueviolet;
+  text-transform: capitalize;
+  font-size: 13pt;
+}
+
+.Page404 button :hover {
+  color: blueviolet;
+}

@@ -1,0 +1,9 @@
+.CompaniesTable {
+  height: 100%;
+  margin: 3% 5%;
+}
+
+.CompaniesTable .TableHead {
+  font-weight: bolder;
+  font-size: 11pt;
+}

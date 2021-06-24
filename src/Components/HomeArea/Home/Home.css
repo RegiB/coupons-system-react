@@ -1,0 +1,68 @@
+.Home {
+  height: 100%;
+  margin: 3%;
+}
+
+.Home .Title {
+  font-size: 24pt;
+  font-weight: bold;
+}
+
+.Home .CategoryBox {
+  margin: 2%;
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.Home .CategoryBox img {
+  width: 365px;
+  height: 260px;
+  border-radius: 5px;
+}
+
+.Home .AdHome {
+  display: inline-block;
+  margin: -30px -38px 10px;
+}
+
+.Home .ImageMain {
+  width: 1263px;
+}
+
+.Home .AdHome span {
+  position: relative;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 25pt;
+  font-weight: bolder;
+  float: left;
+  left: 200px;
+  bottom: 300px;
+  padding: 20px;
+}
+
+.Home .AdHome a {
+  position: relative;
+  font-size: 15pt;
+  font-weight: bolder;
+  background-color: rgba(137, 43, 226, 0.8);
+  color: whitesmoke;
+  border-radius: 50px;
+  float: left;
+  right: 80px;
+  bottom: 150px;
+  padding: 20px;
+}
+
+.Home .BtnLink {
+  margin-top: -130px;
+  text-decoration: none;
+  font-size: 11pt;
+  text-transform: capitalize;
+  font-weight: bold;
+}
+
+.Home a :hover {
+  color: blueviolet;
+  font-weight: bold;
+}

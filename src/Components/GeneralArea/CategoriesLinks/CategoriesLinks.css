@@ -1,0 +1,15 @@
+.CategoriesLinks {
+  margin: 1%;
+}
+
+.CategoriesLinks span {
+  display: block;
+  position: relative;
+  bottom: 83%;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 3%;
+  color: whitesmoke;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+

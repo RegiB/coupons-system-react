@@ -1,0 +1,25 @@
+.AddCustomer {
+  height: 100%;
+  margin: 3%;
+}
+
+.AddCustomer .TitleMain {
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.AddCustomer .FieldText {
+  margin-right: 10px;
+  width: 200px;
+}
+
+.AddCustomer .FieldText2 {
+  width: 410px;
+  margin-right: 10px;
+}
+
+.AddCustomer Button {
+  margin-right: 10px;
+  text-transform: capitalize;
+  font-size: 12pt;
+}

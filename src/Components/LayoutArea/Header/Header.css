@@ -1,0 +1,18 @@
+.Header {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: white;
+  box-shadow: 5px 5px 10px lightgray;
+}
+
+.Header .Title {
+  top: 3%;
+  font-size: 25pt;
+  position: fixed;
+  font-style: oblique;
+  font-weight: bold;
+  left: 110px;
+  color: blueviolet;
+}

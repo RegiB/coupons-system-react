@@ -1,0 +1,25 @@
+.CouponCard {
+  height: 100%;
+  width: 300px;
+  margin-bottom: 2%;
+}
+
+.CouponCard image {
+  color: black;
+}
+
+.CouponCard a {
+  text-decoration: none;
+}
+
+.CouponCard button {
+  color: blueviolet;
+  background-color: whitesmoke;
+  text-transform: capitalize;
+  font-size: 11pt;
+}
+
+.CouponCard button:hover {
+  color: whitesmoke;
+  background-color: blueviolet;
+}

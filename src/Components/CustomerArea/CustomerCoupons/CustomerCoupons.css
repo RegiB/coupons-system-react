@@ -1,0 +1,61 @@
+.CustomerCoupons {
+  height: 100%;
+  display: inline-flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  margin-top: 3%;
+  width: 100%;
+}
+
+.CustomerCoupons .InputPrice {
+  float: left;
+  margin-left: 10%;
+  display: inline-flex;
+}
+
+.CustomerCoupons .InputCategory {
+  float: left;
+  margin-left: 10%;
+  display: inline-flex;
+}
+
+.CustomerCoupons .CouponsList {
+  display: inline-flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  padding-top: 1%;
+  margin-left: 10%;
+}
+
+.CustomerCoupons Button:hover {
+  color: whitesmoke;
+  background-color: blueviolet;
+}
+
+.CustomerCoupons .BtnFind {
+  height: 50%;
+  margin-top: 4%;
+  background-color: rgba(0, 0, 0, 0.3);
+  text-transform: capitalize;
+  font-size: 11pt;
+}
+
+.CustomerCoupons .BtnFind:hover {
+  color: black;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.CustomerCoupons .BtnClear {
+  margin-top: 4%;
+  height: 50%;
+  left: 40%;
+  color: whitesmoke;
+  background-color: black;
+  text-transform: capitalize;
+  font-size: 12pt;
+}
+
+.CustomerCoupons .BtnClear:hover {
+  color: whitesmoke;
+  background-color: rgba(0, 0, 0, 0.5);
+}

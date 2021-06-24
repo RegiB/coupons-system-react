@@ -1,0 +1,10 @@
+.PurchasedCoupons {
+  height: 100%;
+  padding: 2%;
+  display: inline-flex;
+  border-radius: 10px;
+}
+
+.PurchasedCoupons .TitleNum {
+  font-size: 18pt;
+}

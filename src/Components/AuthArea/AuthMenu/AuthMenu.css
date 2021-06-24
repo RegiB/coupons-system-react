@@ -1,0 +1,24 @@
+.AuthMenu {
+  position: fixed;
+  right: 3%;
+}
+
+.AuthMenu a {
+  text-decoration: none;
+}
+
+.AuthMenu button {
+  height: 45px;
+  width: 100px;
+  font-weight: bolder;
+  color: whitesmoke;
+  background-color: blueviolet;
+  border-radius: 50px;
+  text-transform: capitalize;
+  font-size: 12pt;
+}
+
+.AuthMenu button:hover {
+  color: whitesmoke;
+  background-color: rgba(137, 43, 226, 0.8);
+}

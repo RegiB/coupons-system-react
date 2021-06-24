@@ -1,0 +1,26 @@
+.Layout {
+  height: 100%;
+  box-sizing: border-box;
+  text-align: center;
+  display: grid;
+  grid-template-rows: 13% 87%;
+  grid-template-columns: repeat(7, 1fr);
+}
+
+.Layout > header {
+  grid-column: span 7;
+}
+
+.Layout > main {
+  grid-column: span 7;
+  overflow-y: auto;
+}
+
+.Layout > main .PageContainer {
+  min-height: 95vh;
+  position: relative;
+}
+
+.Layout > footer {
+  grid-column: span 7;
+}

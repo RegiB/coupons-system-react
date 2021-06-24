@@ -1,0 +1,11 @@
+.CustomersTable {
+  height: 100%;
+  margin: 3% 5%;
+}
+
+.CustomersTable .TableHead {
+  font-weight: bolder;
+  font-size: 11pt;
+}
+
+
